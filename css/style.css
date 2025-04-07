@@ -5,8 +5,8 @@ img{display:block;}
 .img-box,img{width:100%;}
 .img-box{position:relative;}
 .btn{width:50%;position:absolute;left:50%;transform:translate(-50%,-50%);}
-.btn_ep{top:82%;}
-.btn_dl{top:93%;}
+.btn_ep{top:74%;}
+.btn_dl{top:86%;}
 .back,.forward{width:9%;position:fixed;top:50%;transform:translateY(-50%);transition:opacity 0.2s ease;}
 .back{left:4%;}
 .forward{right:4%;}
