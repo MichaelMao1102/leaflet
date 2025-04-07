@@ -10,5 +10,5 @@ img{display:block;}
 .back,.forward{width:9%;position:fixed;top:50%;transform:translateY(-50%);transition:opacity 0.2s ease;padding:15px;}
 .back{left:0;}
 .forward{right:0;}
-a:active{opacity:.9;}
+a:active{opacity:.7;}
 .btn_ep img,.btn_dl img,.back,.forward,.back img,.forward img{border-radius:999px;}
