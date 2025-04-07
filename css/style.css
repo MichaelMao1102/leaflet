@@ -7,8 +7,8 @@ img{display:block;}
 .btn{width:50%;position:absolute;left:50%;transform:translate(-50%,-50%);}
 .btn_ep{top:74%;}
 .btn_dl{top:86%;}
-.back,.forward{width:9%;position:fixed;top:50%;transform:translateY(-50%);transition:opacity 0.2s ease;}
-.back{left:4%;}
-.forward{right:4%;}
+.back,.forward{width:9%;position:fixed;top:50%;transform:translateY(-50%);transition:opacity 0.2s ease;padding:15px;}
+.back{left:0;}
+.forward{right:0;}
 a:active{opacity:.9;}
-.btn_ep img,.btn_dl img,.back img,.forward img{border-radius:999px;}
+.btn_ep img,.btn_dl img,.back,.forward,.back img,.forward img{border-radius:999px;}
