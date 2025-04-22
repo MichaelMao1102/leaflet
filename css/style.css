@@ -6,7 +6,7 @@ img{display:block;}
 .img-box{position:relative;}
 .btn{width:50%;position:absolute;left:50%;transform:translate(-50%,-50%);}
 .btn_ep{top:74%;}
-.btn_dl{top:86%;}
+.btn_dl{top:84%;}
 .back,.forward{width:9%;position:fixed;top:50%;transform:translateY(-50%);transition:opacity 0.2s ease;padding:15px;}
 .back{left:0;}
 .forward{right:0;}
